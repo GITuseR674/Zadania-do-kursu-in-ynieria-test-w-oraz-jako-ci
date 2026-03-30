@@ -1,5 +1,7 @@
 # Inżynieria testów oraz jakości
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+
 ## Prowadzący
 - Dr inż. Bartłomiej Paszkiewicz
 - Dr inż. Piotr Pokryszka
