@@ -1,1 +1,0 @@
-# Zadania-do-kursu-in-ynieria-test-w-oraz-jako-ci
